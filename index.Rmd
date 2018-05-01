@@ -1,0 +1,13 @@
+---
+title: "biodatascience"
+output: 
+  html_document:
+    self_contained: false
+---
+
+# Courses
+
+* [BIOS 611 - Introduction to Data Science](datasci611/index.html)
+* [BIOS 735 - Statistical Computing](statcomp/index.html)
+* [BIOS 784 - Introduction to Computational Biology](compbio/index.html)
+
