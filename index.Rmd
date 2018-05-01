@@ -1,5 +1,4 @@
 ---
-title: "biodatascience"
 output: 
   html_document:
     self_contained: false
