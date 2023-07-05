@@ -6,7 +6,7 @@ output:
 
 # Courses
 
+* [BCB 724 - Data Communication](datacomm)
 * [BIOS 611 - Introduction to Data Science](datasci611)
 * [BIOS 735 - Statistical Computing](statcomp)
 * [BIOS 784 - Introduction to Computational Biology](compbio)
-
